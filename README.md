@@ -6,4 +6,4 @@ Welcome to my personal archive of English articles. Here is the list of publishe
 * [The Linguistic-Contextual Framework: Al-Insan & Al-Nas in The Quran](the-linguistic-contextual-framework-al-insan-&-al-nas-in-the-quran.md)
 * [The True Nature of the Words Man من & Ma ما in the Quran](the-true-nature-of-the-words-man-من-and-ma-ما-in-the-quran.md)
 * [Shirk: A Tremendous Injustice](shirk-a-tremendous-injustice.md)
-*[LEVITICUS 26:PROPHECY IN THE PENTATEUCH TEXTUAL ANALYSIS](leviticus-26-prophecy-in-the-pentateuch-literal-text-analysis.md)
+* [LEVITICUS 26:PROPHECY IN THE PENTATEUCH TEXTUAL ANALYSIS](leviticus-26-prophecy-in-the-pentateuch-literal-text-analysis.md)
