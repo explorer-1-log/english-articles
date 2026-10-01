@@ -10,3 +10,4 @@ Welcome to my personal archive of English articles. Here is the list of publishe
 * [DEUTERONOMY:THE IDEOLOGICAL FOUNDATION OF THE MONARCHY AND MESSIANISM](deuteronomy-the-ideological-foundation-of-the-monarchy-and-messianism.md)
 * [From Eschatology to Hermeneutics: A Study on The Rapture, Mid-Acts Dispensationalism, and the Nature of Biblical Texts](nt-hermeneutics-rapture-study.md)
 * [An Introduction to The Atthakavagga: The Stratification and Radical Simplicity of Pre-Canonical Buddhism](intro-atthakavagga.md)
+* [Atthakavagga vs DN 1: Proto-Buddhism, Zen, Pyrrho, and Sanjaya Belatthiputta](atthakavagga-dn-1.md)
