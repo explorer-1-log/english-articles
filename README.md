@@ -14,3 +14,4 @@ Welcome to my personal archive of English articles. Here is the list of publishe
 * [Evam me sutam, Atthakavagga & Parayanavagga: Shattering the Myth of a Fixed Canon](atthakavagga-parayanavagga.md)
 * [A Textual, Linguistic, and Psychological Analysis of the Atthakavagga and the Evolution of the Jataka Gatha](atthakavagga-jataka.md)
 * [Platonic Mandatory Reading Syllabus](plato-reading-guide.md)
+* [MODELS OF REALITY: THE CLASH OF TWO POLES IN THE HISTORY OF HUMAN Civilization](models-of-reality.md)
