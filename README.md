@@ -15,3 +15,4 @@ Welcome to my personal archive of English articles. Here is the list of publishe
 * [A Textual, Linguistic, and Psychological Analysis of the Atthakavagga and the Evolution of the Jataka Gatha](atthakavagga-jataka.md)
 * [Platonic Mandatory Reading Syllabus](plato-reading-guide.md)
 * [MODELS OF REALITY: THE CLASH OF TWO POLES IN THE HISTORY OF HUMAN Civilization](models-of-reality.md)
+* [THE EVOLUTION OF COSMIC REALITY Models](cosmic-reality-models.md)
