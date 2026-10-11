@@ -17,3 +17,4 @@ Welcome to my personal archive of English articles. Here is the list of publishe
 * [MODELS OF REALITY: THE CLASH OF TWO POLES IN THE HISTORY OF HUMAN Civilization](models-of-reality.md)
 * [THE EVOLUTION OF COSMIC REALITY Models](cosmic-reality-models.md)
 * [THE NATURE OF THE QUANTUM REALM: THE BOUNDARIES OF REALITY & Information](quantum-realm.md)
+* [THE TITAN CONCEPT, PHILOSOPHY OF TIME, AND COGNITIVE Integration](philosophy-of-time.md)
