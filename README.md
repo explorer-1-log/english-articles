@@ -18,3 +18,4 @@ Welcome to my personal archive of English articles. Here is the list of publishe
 * [THE EVOLUTION OF COSMIC REALITY Models](cosmic-reality-models.md)
 * [THE NATURE OF THE QUANTUM REALM: THE BOUNDARIES OF REALITY & Information](quantum-realm.md)
 * [THE TITAN CONCEPT, PHILOSOPHY OF TIME, AND COGNITIVE Integration](philosophy-of-time.md)
+* [Liberating the Quran from the Prison of Terminology: A Critical Post-Mortem of the 20 Questions in Tahafut al-Falasifah](quran-post-mortem-tahafut.md)
