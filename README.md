@@ -20,3 +20,4 @@ Welcome to my personal archive of English articles. Here is the list of publishe
 * [THE TITAN CONCEPT, PHILOSOPHY OF TIME, AND COGNITIVE Integration](philosophy-of-time.md)
 * [Liberating the Quran from the Prison of Terminology: A Critical Post-Mortem of the 20 Questions in Tahafut al-Falasifah](quran-post-mortem-tahafut.md)
 * [COSMIC NIBBANA](cosmic-nibbana.md)
+* [Dissecting Reality: The Chronological Evolution of Deconstructive Mindsets From the Proto-Axial Era to the Quantum Realm](dissecting-reality.md)
