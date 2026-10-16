@@ -23,3 +23,4 @@ Welcome to my personal archive of English articles. Here is the list of publishe
 * [Dissecting Reality: The Chronological Evolution of Deconstructive Mindsets From the Proto-Axial Era to the Quantum Realm](dissecting-reality.md)
 * [The Cosmos in Motion: Overcoming the Static Dogma of Eastern and Western Philosophy](cosmos-in-motion.md)
 * [The Grammar of the Cosmos: Why Eternity is a Verb, Not a Noun](grammar-of-the-cosmos.md)
+* [From Qubits to Sunyata: How Quantum Wavefunction Collapse Mirrors the Cosmic Browser](qubits-to-sunyata.md)
