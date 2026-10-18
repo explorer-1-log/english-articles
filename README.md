@@ -11,7 +11,7 @@ Welcome to my personal archive of English articles. Here is the list of publishe
 * [From Eschatology to Hermeneutics: A Study on The Rapture, Mid-Acts Dispensationalism, and the Nature of Biblical Texts](nt-hermeneutics-rapture-study.md)
 * [An Introduction to The Atthakavagga: The Stratification and Radical Simplicity of Pre-Canonical Buddhism](intro-atthakavagga.md)
 * [Atthakavagga vs DN 1: Proto-Buddhism, Zen, Pyrrho, and Sanjaya Belatthiputta](atthakavagga-dn-1.md)
-* [Evam me sutam, Atthakavagga & Parayanavagga: Shattering the Myth of a Fixed Canon](atthakavagga-parayanavagga.md)
+* [Evam me sutam, Atthakavagga & Parayanavagga: Deconstructing the Myth of a Fixed Canon](atthakavagga-parayanavagga.md)
 * [A Textual, Linguistic, and Psychological Analysis of the Atthakavagga and the Evolution of the Jataka Gatha](atthakavagga-jataka.md)
 * [Platonic Mandatory Reading Syllabus](plato-reading-guide.md)
 * [MODELS OF REALITY: THE CLASH OF TWO POLES IN THE HISTORY OF HUMAN Civilization](models-of-reality.md)
