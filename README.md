@@ -8,7 +8,7 @@ Welcome to my personal archive of English articles. Here is the list of publishe
 * [Shirk: A Tremendous Injustice](shirk-injustice.md)
 * [LEVITICUS 26:PROPHECY IN THE PENTATEUCH TEXTUAL ANALYSIS](leviticus-26.md)
 * [DEUTERONOMY:THE IDEOLOGICAL FOUNDATION OF THE MONARCHY AND MESSIANISM](deuteronomy-messianism.md)
-* [From Eschatology to Hermeneutics: A Study on The Rapture, Mid-Acts Dispensationalism, and the Nature of Biblical Texts](nt-hermeneutics-rapture-study.md)
+* [From Eschatology to Hermeneutics: A Study on The Rapture, Mid-Acts Dispensationalism, and the Nature of Biblical Texts](rapture-study.md)
 * [An Introduction to The Atthakavagga: The Stratification and Radical Simplicity of Pre-Canonical Buddhism](intro-atthakavagga.md)
 * [Atthakavagga vs DN 1: Proto-Buddhism, Zen, Pyrrho, and Sanjaya Belatthiputta](atthakavagga-dn-1.md)
 * [Evam me sutam, Atthakavagga & Parayanavagga: Deconstructing the Myth of a Fixed Canon](atthakavagga-parayanavagga.md)
