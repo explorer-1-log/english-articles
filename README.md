@@ -5,7 +5,7 @@ Welcome to my personal archive of English articles. Here is the list of publishe
 ## 📝 Article List
 * [The Linguistic-Contextual Framework: Al-Insan & Al-Nas in The Quran](al-insan-al-nas-quran.md)
 * [The True Nature of the Words Man من & Ma ما in the Quran](man-ma-quran.md)
-* [Shirk: A Tremendous Injustice](shirk-a-tremendous-injustice.md)
+* [Shirk: A Tremendous Injustice](shirk-injustice.md)
 * [LEVITICUS 26:PROPHECY IN THE PENTATEUCH TEXTUAL ANALYSIS](leviticus-26-prophecy-in-the-pentateuch-literal-text-analysis.md)
 * [DEUTERONOMY:THE IDEOLOGICAL FOUNDATION OF THE MONARCHY AND MESSIANISM](deuteronomy-the-ideological-foundation-of-the-monarchy-and-messianism.md)
 * [From Eschatology to Hermeneutics: A Study on The Rapture, Mid-Acts Dispensationalism, and the Nature of Biblical Texts](nt-hermeneutics-rapture-study.md)
