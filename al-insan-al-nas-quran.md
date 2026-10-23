@@ -8,7 +8,7 @@
 </tr>
 </tbody>
 </table>
-<h2><strong>1. Defining Words Through a Usage-Based Approach</strong></h2>
+<h2><strong>1. Defining Words Through a Usage-Based Approach</strong></h2><div><strong><br /></strong></div>
 <div></div>
 <div></div>
 <div></div>
@@ -21,8 +21,8 @@
 <div></div>
 <div></div>
 <p>- This term refers to localized groups of people bound together within a tangible societal system.</p>
-<p>- It addresses sociopolitical dynamics, economic interactions, community laws, and the structural order of a specific population within a particular timeline.</p>
-<h2><strong>2. Implications for the Prophetic &amp; Apostolic Mission</strong></h2>
+<p>- It addresses sociopolitical dynamics, economic interactions, community laws, and the structural order of a specific population within a particular timeline.</p><p><br /></p>
+<h2><strong>2. Implications for the Prophetic &amp; Apostolic Mission</strong></h2><div><strong><br /></strong></div>
 <div></div>
 <div></div>
 <div><strong>Localized Operational Mission</strong></div><div><strong><br /></strong></div>
@@ -36,8 +36,8 @@
 <p>- Understood synchronically, this phrase means being sent to "all elements and communities of the Arab society at that time" comprehensively, rather than being restricted to a single clan or tribe.</p><p><br /></p>
 <div><strong>Absence of Mass Proselytism</strong></div><div><strong><br /></strong></div>
 <div></div>
-<p>- Unlike the Gospel concept of the Great Commission (to baptize non-Israelite nations), a Messenger’s operational duty in the Quran is solely to convey information clearly (balagh). It was not a project for the forced religious expansion or conversion of non-Arab ('Ajam) nations. This practical mission concluded entirely upon his passing as the Seal of the Prophets (خاتم النبيين - QS. 33:40).</p>
-<h2><strong>3. The Theological Concept of "Muslim" Status (QS. 22:78)</strong></h2>
+<p>- Unlike the Gospel concept of the Great Commission (to baptize non-Israelite nations), a Messenger’s operational duty in the Quran is solely to convey information clearly (balagh). It was not a project for the forced religious expansion or conversion of non-Arab ('Ajam) nations. This practical mission concluded entirely upon his passing as the Seal of the Prophets (خاتم النبيين - QS. 33:40).</p><p><br /></p>
+<h2><strong>3. The Theological Concept of "Muslim" Status (QS. 22:78)</strong></h2><div><strong><br /></strong></div>
 <div></div>
 <div></div>
 <div><strong>Identity by Divine Designation</strong></div><div><strong><br /></strong></div>
@@ -48,8 +48,8 @@
 <p>- This refutes the modern romanticism of religious conversion or "reverting." In the context of the text, becoming a Muslim is an absolute prerogative of Divine decree, rather than a matter of free human choice in later generations.</p><p><br /></p>
 <div><strong>The Meaning of Min Qablu (مِنْ قَبْلُ)</strong></div><div><strong><br /></strong></div>
 <div></div>
-<p>- Translating to "before this" or "from the past," this phrase asserts that the naming and isolation of this chosen group's identity was already etched into historical pre-determination by God, long preceding the physical existence of the community itself.</p>
-<h2><strong>4. Implications for Modern-Day Sharia Law</strong></h2>
+<p>- Translating to "before this" or "from the past," this phrase asserts that the naming and isolation of this chosen group's identity was already etched into historical pre-determination by God, long preceding the physical existence of the community itself.</p><p><br /></p>
+<h2><strong>4. Implications for Modern-Day Sharia Law</strong></h2><div><strong><br /></strong></div>
 <div></div>
 <div></div>
 <div><strong>Laws Limited to Contemporary Followers</strong></div><div><strong><br /></strong></div>
