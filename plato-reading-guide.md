@@ -7,7 +7,7 @@
 <td>Plato points to the heavens (Theory of Forms) while Aristotle gestures to the earth (concrete particulars) in Raphael's famous fresco, "The School of Athens."</td>
 </tr></tbody></table><h2>📚 Plato’s Systematic Reading Syllabus</h2>
 <p><strong>Focus</strong>: Personal Identity, Metaphysics, Science, and Political Realism (Excluding Socrates’ Street Debates)</p>
-<p><strong>Recommended Edition</strong>: Plato: Complete Works (Edited by John M. Cooper / Hackett Publishing)</p>
+<p><strong>Recommended Edition</strong>: Plato: Complete Works (Edited by John M. Cooper / Hackett Publishing)</p><p><br /></p>
 <h2>📖 Quick Book List Index</h2>
 <p>📘 <strong>Phaedo</strong></p>
 <p>📕 <strong>The Republic</strong></p>
@@ -16,7 +16,7 @@
 <p>📗 <strong>Sophist</strong></p>
 <p>📔 <strong>Politicus / Statesman</strong></p>
 <p>📖 <strong>Timaeus</strong></p>
-<p>📜 <strong>Laws</strong></p>
+<p>📜 <strong>Laws</strong></p><p><strong><br /></strong></p>
 <h2>🏛️ LEVEL 1: Foundations of Plato’s Personal Theory</h2>
 <p><strong>Focus</strong>: Dualism &amp; The Theory of Forms</p><p><br /></p>
 <div><strong>📘 Phaedo (Transitional Phase)</strong></div><div><strong><br /></strong></div>
@@ -26,7 +26,7 @@
 <p><strong>Core Idea</strong>: Plato argues that human beings consist of two distinct parts (<strong>Dualism</strong>): a mortal body and an immortal soul. This text serves as an initial introduction to the <strong>World of Forms</strong> as the ultimate reality.</p><p><br /></p>
 <div><strong>📕 The Republic (Books V, VI, and VII Only)</strong></div><div><strong><br /></strong></div>
 <p><strong>Key Section</strong>: The Allegory of the Cave and the concept of the Philosopher King.</p>
-<p><strong>Core Idea</strong>: The distinction between the mere shadows of a relative world and objective truth. This outlines Plato's early vision of building an <strong>ideal utopian state</strong> governed by pure intellect.</p>
+<p><strong>Core Idea</strong>: The distinction between the mere shadows of a relative world and objective truth. This outlines Plato's early vision of building an <strong>ideal utopian state</strong> governed by pure intellect.</p><p><br /></p>
 <h2>⚖️ LEVEL 2: Logical Purging &amp; The Rejection of Relativism</h2><div><br /></div>
 <div><strong>📙 Theaetetus (Epistemology / Theory of Knowledge)</strong></div><div><strong><br /></strong></div>
 <div></div>
@@ -35,7 +35,7 @@
 <div><strong>📓 Parmenides (The Metaphysical Crisis)</strong></div><div><strong><br /></strong></div>
 <div></div>
 <p><strong>Key Section</strong>: The opening debate on the Theory of Forms.</p>
-<p><strong>Core Idea</strong>: Plato performs a rigorous "post-mortem" on the flaws of his own early Theory of Forms. This text serves as an exercise in <strong>pure logic</strong> meant to refine and cleanse his entire philosophical system.</p>
+<p><strong>Core Idea</strong>: Plato performs a rigorous "post-mortem" on the flaws of his own early Theory of Forms. This text serves as an exercise in <strong>pure logic</strong> meant to refine and cleanse his entire philosophical system.</p><p><br /></p>
 <h2>🛠️ LEVEL 3: Plato’s Mature Philosophy &amp; Solutions</h2>
 <p><strong>Focus</strong>: Late Phase Metaphysics, Cosmology, and Realism</p><p><br /></p>
 <div><strong>📗 Sophist (Metaphysical Logic)</strong></div><div><strong><br /></strong></div>
