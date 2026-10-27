@@ -27,3 +27,4 @@ Welcome to my personal archive of English articles. Here is the list of publishe
 * [EXISTENTIAL AND SCIENTIFIC NOTES: THE BLIND SPOTS OF FIVE PARADIGMS OF REALITY TOWARDS THE MYSTERY OF LIGHT](light-mystery.md)
 * [NOTES ON THE EXISTENTIAL CONNECTION AND MODERN SCIENCE: SUBSTANCE VS. ACCIDENT, THE QUANTUM PARADOX, AND ABSOLUTE LIGHT TECHNOLOGY](quantum-paradox.md)
 * [Aristotelian Hegemony in Classical Islamic Epistemology](aristotle-hegemony.md)
+* [Deconstructing the Axial Trap: Restoring Contextual Scope to the Quranic Text](axial-trap-quran.md)
