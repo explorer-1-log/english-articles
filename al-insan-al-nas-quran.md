@@ -12,11 +12,11 @@
 <div></div>
 <div></div>
 <div></div>
-<div><strong>Al-Insan /&nbsp;الإنسان&nbsp;= The Species / Humanity</strong></div><div><strong><br /></strong></div>
+<div><strong>Al-Insan /&nbsp;الإنسان&nbsp;= Humanity ( The Total Human Entity )</strong></div><div><strong><br /></strong></div>
 <div></div>
 <div></div>
 <p>- This term refers to mankind as a whole or the universal essence of humanity.</p>
-<p>- It addresses the foundational blueprint, existential nature, mental capacities, and biological/psychological traits inherent to the human species, independent of geographical boundaries or eras.</p><p><br /></p>
+<p>- It addresses the foundational blueprint, existential nature, mental capacities, and inherent psychological traits of the human entity, independent of geographical boundaries or eras.</p><p><br /></p>
 <div><strong>Al-Nas /&nbsp;الناس&nbsp;= The Society / Collective / Population</strong></div><div><strong><br /></strong></div>
 <div></div>
 <div></div>
