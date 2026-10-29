@@ -120,7 +120,7 @@
 <p><strong>Core Function:</strong> Violating the safe threshold or baseline security parameters of a governing system (like a date breaking through its skin).</p>
 </div>
 <div>
-<div style="text-align: left;"><b>ISTISQĀ' (ٱسْتَسْقَىٰ)</b></div>
+<div style="text-align: left;"><b>ISTASQĀ' (ٱسْتَسْقَىٰ)</b></div>
 <p><strong>Literal Mechanic:</strong> Designing or striving to extract an irrigation/fluid channel.</p>
 <p><strong>Core Function:</strong> The technical, engineering effort directed at unlocking and routing life-sustaining fluid inputs for a community.</p>
 </div>
