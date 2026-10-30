@@ -30,7 +30,7 @@
 </ol>
 <p>By understanding them as a functional case study rather than a specific historical group, the text transforms from a dead history lesson into an active, timeless diagnostic tool for human organizations and cognition.</p>
 <h2>3. Shifting from Magic to Mechanics</h2>
-<p>Where traditional exegesis relies heavily on external, mythological narratives (often borrowed from Israeliyat traditions) to explain events through magic—such as flying mountains, physical monkey transformations, or corpses reanimated by beef tissue—the literal text remains entirely grounded in physical and psychological laws.</p>
+<p>Where traditional exegesis relies heavily on external, mythological narratives (often borrowed from Israeliyat traditions) to explain events through magic—such as flying mountains, physical human-to-animal transformations, or corpses reanimated by beef tissue—the literal text remains entirely grounded in physical and psychological laws.</p>
 <p>Terms like <em>ash-shā'iqah</em> (cognitive shutdown), <em>al-mawt</em> (systemic passivity), <em>al-qaryah</em> (consolidated systems), and <em>dharaba</em> (enforcing a boundary or distance) are precise operational terms. The supplement acts as a reminder that the text does not break physical reality; rather, it documents the severe, real-world consequences that occur when an intelligent entity operates in direct violation of the laws of its environment.</p>
 </section>
 <section>
