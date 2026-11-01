@@ -31,3 +31,4 @@ Welcome to my personal archive of English articles. Here is the list of publishe
 * [The Anatomy of Cognitive and Existential Systemic Failure: A Structural and Non-Linear Linguistic Deconstruction of Al-Baqarah (2:40–2:74) and An-Nisa (4:34)](baqarah-deconstruct.md)
 * [Supplemental Guide: Understanding the Operational Architecture of the "Bani Israil" Textual Fragments](baqarah-supplement.md)
 * [COGNITIVE SYSTEMS & ARCHETYPAL PROTOCOLS: A Radical Text-Critical Analysis of the Al-Baqarah Fragments](baqarah-2-61.md)
+* [PERSPECTIVE REVISION NOTES: THE PARADIGM SHIFT OF THE CONCEPT OF ADAM AND THE QURAN FOR A SPECIFIC GROUP](quran-specific-group.md)
