@@ -6,7 +6,7 @@
 </tbody>
 </table>
 <p><b>Stripping the Text to Reveal the Architecture of Law</b>.</p>
-<div style="text-align: left;">[Author's update—November 4, 2026]: This post has been heavily revised from its original version. The current draft completely discards standard etymological/root-word harmonization in favor of a stricter, purely non-linear structural analysis of the text.</div><br /><h2>Introduction</h2><p>This draft compiles and formalises a rigorous, non-linear, and radical linguistic deconstruction of the "Bani Israil" textual fragments within Surah Al-Baqarah, extending its consistent semantic frameworks to the critical social-domestic protocol of Surah An-Nisa [4:34].</p>
+<div style="text-align: left;"><i>[Author's update—November 4, 2026]: This post has been heavily revised from its original version. The current draft completely discards standard etymological/root-word harmonization in favor of a stricter, purely non-linear structural analysis of the text.</i></div><br /><h2>Introduction</h2><p>This draft compiles and formalises a rigorous, non-linear, and radical linguistic deconstruction of the "Bani Israil" textual fragments within Surah Al-Baqarah, extending its consistent semantic frameworks to the critical social-domestic protocol of Surah An-Nisa [4:34].</p>
 <p>By discarding traditional theological "harmonisation"—the artificial forcing of texts into chronological, novel-like biographical timelines (the illusion of coherence)—this analysis relies strictly on the underlying operational frameworks and modular design of the text.</p>
 <h2 style="text-align: left;">1. Axiomatic Premises of Textual Analysis</h2>
 <p>To read the text objectively, three core principles must be strictly enforced:</p>
