@@ -33,64 +33,64 @@
 </section>
 <section>
 <h2>How to Use This Supplement</h2>
-<p>Read this background guide alongside our main analysis. Use the Quick Referential Notes as your quick guide the updated structural terms. By keeping these three premises in mind, you will begin to see that the text is not an ancient tale of wonders, but a flawless, modular manual diagnosing the mechanics of human failure and the supremacy of structural law.</p>
+<p>Read this background guide alongside our main analysis. Use the Quick Referential Notes as your quick guide the updated structural terms. By keeping these three premises in mind, you will begin to see that the text is not an ancient tale of wonders, but a flawless, modular manual diagnosing the mechanics of human failure and the supremacy of structural law.</p><p><br /></p>
 </section>
 <section>
-<h2>Quick Referential Notes</h2>
+<h2>Quick Referential Notes</h2><div><br /></div>
 <div>
 <div style="text-align: left;"><br /></div></div><div>
 </div>
 <div>
-<div style="text-align: left;"><b>NAFS / ANFUS (نَفْس / أَنْفُس)</b></div>
-<p><strong>Operational Profile:</strong> Denotes the Existential Identity of an Entity. It applies to any physically or functionally structured system (humans, objects, heavens), representing its unique operational status rather than a mystical gas or vapor.</p><p><br /></p>
+<div style="text-align: left;"><b><span style="font-size: large;">NAFS / ANFUS (نَفْس / أَنْفُس)</span></b></div>
+<p><strong><br /></strong></p><p><strong>Operational Profile:</strong> Denotes the Existential Identity of an Entity. It applies to any physically or functionally structured system (humans, objects, heavens), representing its unique operational status rather than a mystical gas or vapor.</p><p><br /></p><p><br /></p>
 </div>
 <div>
-<div style="text-align: left;"><b>QATALA (قَتَلَ)</b></div>
-<p><strong>Operational Profile:</strong> In structural terms, it means to completely disable the active status quo or utility of an entity, terminating its current functional setup.</p><p><br /></p>
+<div style="text-align: left;"><b><span style="font-size: large;">QATALA (قَتَلَ)</span></b></div>
+<p><strong><br /></strong></p><p><strong>Operational Profile:</strong> In structural terms, it means to completely disable the active status quo or utility of an entity, terminating its current functional setup.</p><p><br /></p><p><br /></p>
 </div>
 <div>
-<div style="text-align: left;"><b>AL-BĀRI' (الْبَارِئ)</b></div>
-<p><strong>Operational Profile:</strong> The functional attribute that designs, separates, and aligns individual components so an entity can operate free of defect.</p><p><br /></p></div><div>
+<div style="text-align: left;"><b><span style="font-size: large;">AL-BĀRI' (الْبَارِئ)</span></b></div>
+<p><strong><br /></strong></p><p><strong>Operational Profile:</strong> The functional attribute that designs, separates, and aligns individual components so an entity can operate free of defect.</p><p><br /></p><p><br /></p></div><div>
 </div>
 <div>
-<div style="text-align: left;"><b>AL-GHAMĀM (الْغَمَام)</b></div>
-<p><strong>Operational Profile:</strong> Systemic environmental protection that insulates an entity from harsh, destructive external exposures.</p><p><br /></p>
+<div style="text-align: left;"><b><span style="font-size: large;">AL-GHAMĀM (الْغَمَام)</span></b></div>
+<p><strong><br /></strong></p><p><strong>Operational Profile:</strong> Systemic environmental protection that insulates an entity from harsh, destructive external exposures.</p><p><br /></p><p><br /></p>
 </div>
 <div>
-<div style="text-align: left;"><b>AL-MANN (الْمَنّ)</b></div>
-<p><strong>Operational Profile:</strong> Baseline systemic inputs and resources natively available within an ecosystem requiring zero operational friction or labor.</p><p><br /></p>
+<div style="text-align: left;"><b><span style="font-size: large;">AL-MANN (الْمَنّ)</span></b></div>
+<p><strong><br /></strong></p><p><strong>Operational Profile:</strong> Baseline systemic inputs and resources natively available within an ecosystem requiring zero operational friction or labor.</p><p><br /></p><p><br /></p>
 </div>
 <div>
-<div style="text-align: left;"><b>AS-SALWĀ (السَّلْوَىٰ)</b></div>
-<p><strong>Operational Profile:</strong> A psychological or environmental buffer that removes tension, stress, and dysfunction, ensuring emotional and structural equilibrium.</p><p><br /></p>
+<div style="text-align: left;"><b><span style="font-size: large;">AS-SALWĀ (السَّلْوَىٰ)</span></b></div>
+<p><strong><br /></strong></p><p><strong>Operational Profile:</strong> A psychological or environmental buffer that removes tension, stress, and dysfunction, ensuring emotional and structural equilibrium.</p><p><br /></p><p><br /></p>
 </div>
 <div>
-<div style="text-align: left;"><b>AL-QARYAH (الْقَرْيَة)</b></div>
-<p><strong>Operational Profile:</strong> A highly organized, established socio-political entity or system where components are securely assembled and ready for operational habitation.</p><p><br /></p>
+<div style="text-align: left;"><b><span style="font-size: large;">AL-QARYAH (الْقَرْيَة)</span></b></div>
+<p><strong><br /></strong></p><p><strong>Operational Profile:</strong> A highly organized, established socio-political entity or system where components are securely assembled and ready for operational habitation.</p><p><br /></p><p><br /></p>
 </div>
 <div>
-<div style="text-align: left;"><b>AL-BĀB (الْبَاب)</b></div>
-<p><strong>Operational Profile:</strong> The precise entry protocol or programmatic gateway required to transition an entity from an external space into an internal system.</p><p><br /></p>
+<div style="text-align: left;"><b><span style="font-size: large;">AL-BĀB (الْبَاب)</span></b></div>
+<p><strong><br /></strong></p><p><strong>Operational Profile:</strong> The precise entry protocol or programmatic gateway required to transition an entity from an external space into an internal system.</p><p><br /></p><p><br /></p>
 </div>
 <div>
-<div style="text-align: left;"><b>ḤIṬṬAH (حِطَّة)</b></div>
-<p><strong>Operational Profile:</strong> A system command input representing the reduction of ego, surrender of corrupt status quo, and willingness to undergo a clean system reset.</p><p><br /></p>
+<div style="text-align: left;"><b><span style="font-size: large;">ḤIṬṬAH (حِطَّة)</span></b></div>
+<p><strong><br /></strong></p><p><strong>Operational Profile:</strong> A system command input representing the reduction of ego, surrender of corrupt status quo, and willingness to undergo a clean system reset.</p><p><br /></p><p><br /></p>
 </div>
 <div>
-<div style="text-align: left;"><b>RIJZ (رِجْز)</b></div>
-<p><strong>Operational Profile:</strong> Severe operational instability, chaos, and desynchronization that occurs naturally when an entity violates core system protocols.</p><p><br /></p>
+<div style="text-align: left;"><b><span style="font-size: large;">RIJZ (رِجْز)</span></b></div>
+<p><strong><br /></strong></p><p><strong>Operational Profile:</strong> Severe operational instability, chaos, and desynchronization that occurs naturally when an entity violates core system protocols.</p><p><br /></p><p><br /></p>
 </div>
 <div>
-<div style="text-align: left;"><b>YAFSUQŪN (يَفْسُقُونَ)</b></div>
-<p><strong>Operational Profile:</strong> Violating the safe threshold or baseline security parameters of a governing system.</p><p><br /></p>
+<div style="text-align: left;"><b><span style="font-size: large;">YAFSUQŪN (يَفْسُقُونَ)</span></b></div>
+<p><strong><br /></strong></p><p><strong>Operational Profile:</strong> Violating the safe threshold or baseline security parameters of a governing system.</p><p><br /></p><p><br /></p>
 </div>
 <div>
-<div style="text-align: left;"><b>ISTASQĀ' (ٱسْتَسْقَىٰ)</b></div>
-<p><strong>Operational Profile:</strong> The technical, engineering effort directed at unlocking and routing fluid inputs for a community.</p><p><br /></p>
+<div style="text-align: left;"><b><span style="font-size: large;">ISTASQĀ' (ٱسْتَسْقَىٰ)</span></b></div>
+<p><strong><br /></strong></p><p><strong>Operational Profile:</strong> The technical, engineering effort directed at unlocking and routing fluid inputs for a community.</p><p><br /></p><p><br /></p>
 </div>
 <div>
-<div style="text-align: left;"><b>DHARABA (ضَرَبَ)</b></div>
-<p><strong>Operational Profile:</strong> A dynamic action of setting parameters and enforcing an impact:</p>
+<div style="text-align: left;"><b><span style="font-size: large;">DHARABA (ضَرَبَ)</span></b></div>
+<p><strong><br /></strong></p><p><strong>Operational Profile:</strong> A dynamic action of setting parameters and enforcing an impact:</p>
 <ul>
 <li><strong>In physical engineering (2:60):</strong> Striking to clear/isolate multiple channels.</li>
 <li><strong>In status definition (2:61):</strong> Enforcing a state of disgrace and stagnant immobility.</li>
@@ -98,19 +98,19 @@
 </ul>
 </div>
 <div>
-<div style="text-align: left;"><b><br /></b></div><div style="text-align: left;"><b>‘ASĀ (عَصَا)</b></div>
-<p><strong>Operational Profile:</strong> Any sturdy physical tool, lever, or mechanical apparatus used to project force and complete physical engineering tasks.</p><p><br /></p>
+<div style="text-align: left;"><b><br /></b></div><div style="text-align: left;"><b><span style="font-size: large;"><br /></span></b></div><div style="text-align: left;"><b><span style="font-size: large;">‘ASĀ (عَصَا)</span></b></div>
+<p><strong><br /></strong></p><p><strong>Operational Profile:</strong> Any sturdy physical tool, lever, or mechanical apparatus used to project force and complete physical engineering tasks.</p><p><br /></p><p><br /></p>
 </div>
 <div>
-<div style="text-align: left;"><b>AL-HAJAR (الْحَجَر)</b></div>
-<p><strong>Operational Profile:</strong> A hard geological rock matrix or aquifer that naturally seals and traps fluids beneath it until mechanically breached.</p><p><br /></p>
+<div style="text-align: left;"><b><span style="font-size: large;">AL-HAJAR (الْحَجَر)</span></b></div>
+<p><strong><br /></strong></p><p><strong>Operational Profile:</strong> A hard geological rock matrix or aquifer that naturally seals and traps fluids beneath it until mechanically breached.</p><p><br /></p><p><br /></p>
 </div>
 <div>
-<div style="text-align: left;"><b>QASAT / QASWAH (قَسَتْ / قَسْوَة)</b></div>
-<p><strong>Operational Profile:</strong> A catastrophic systemic state where an entity's processing cores loss all elasticity, turning completely rigid and incapable of absorbing any input.</p><p><br /></p>
+<div style="text-align: left;"><b><span style="font-size: large;">QASAT / QASWAH (قَسَتْ / قَسْوَة)</span></b></div>
+<p><strong><br /></strong></p><p><strong>Operational Profile:</strong> A catastrophic systemic state where an entity's processing cores loss all elasticity, turning completely rigid and incapable of absorbing any input.</p><p><br /></p><p><br /></p>
 </div>
 <div>
-<div style="text-align: left;"><b>QULŪB (قُلُوب)</b></div>
-<p><strong>Operational Profile:</strong> The primary processing unit and cognitive engine of an entity responsible for shifting, filtering, and evaluating system data.</p>
+<div style="text-align: left;"><b><span style="font-size: large;">QULŪB (قُلُوب)</span></b></div>
+<p><strong><br /></strong></p><p><strong>Operational Profile:</strong> The primary processing unit and cognitive engine of an entity responsible for shifting, filtering, and evaluating system data.</p>
 </div>
 </section>
