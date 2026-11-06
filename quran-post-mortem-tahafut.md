@@ -28,19 +28,19 @@
 <p><strong>The Liberation of the Quran</strong>: The Quran never conceptualizes the universe through an abstract, independent philosophical lens (such as the Greek Cosmos or the later scholastic Al-Kawn). While the Quran does employ the term Al-`Alamin (العالمين), its semantic scope is strictly binary and relational, depending entirely on the textual context. It never functions as a static, standalone physical universe.</p>
 <p>Instead, whenever the text addresses the ultimate totality of creation, Al-'Alamin shrinks or expands into two definitive physical boundaries: either the macroscopic scope of '<strong>the heavens, the earth, and whatever is between them</strong>' (as defined by Moses in 26:24), or the domestic scope of '<strong>human societies and historical civilizations</strong>' (as seen in 29:28). By grounding Al-'Alamin within these specific relational boundaries, the Quranic framework refuses to look at the universe as a cold, self-sustaining mechanical object.</p>
 <p>The Quran has no interest in the existential riddles of the Axial Age (whether something exists, does not exist, both, or neither). It is completely free from that Catuskoti (Tetralemma). In the Quran, the existence of God is a given truth (self-evident). The Quran introduces God through language that is <strong>Functional (what He does)</strong> and <strong>Relational (how He relates to humanity)</strong>. Allah is the active Ruler of the heavens and the earth Who hears prayers, sees actions, and governs His creation at every moment through His Absolute Will (Iradah), rather than a cold, mechanical first cause.</p><p><br /></p>
-<div><strong>Summary of Key Perspectives</strong></div><div><strong><br /></strong></div>
+<div><strong><span style="font-size: large;">Summary of Key Perspectives</span></strong></div><div><strong><br /></strong></div>
 <div></div>
-<div><strong>1. The Philosophers (Ibn Sina)</strong></div><div><strong><br /></strong></div>
+<div><strong><span style="font-size: medium;">1. The Philosophers (Ibn Sina)</span></strong></div><div><strong><br /></strong></div>
 <div></div>
 <p>Core Influence: Greek Philosophy (Plato, Aristotle, Plotinus).</p>
 <p>Concept of God: Mechanical and static; an automatic source of emanation.</p>
 <p>View of the Universe: An eternal, abstract "Cosmos".</p><p><br /></p>
-<div><strong>2. The Theologian (Al-Ghazali)</strong></div><div><strong><br /></strong></div>
+<div><strong><span style="font-size: medium;">2. The Theologian (Al-Ghazali)</span></strong></div><div><strong><br /></strong></div>
 <div></div>
 <p>Core Influence: Abstract Philosophical Counter-Arguments.</p>
 <p>Concept of God: Defined through complex scholastic theology (Kalam).</p>
 <p>View of the Universe: A composite of "Substances" and "Accidents".</p><p><br /></p>
-<div><strong>3. The Quranic Framework</strong></div><div><strong><br /></strong></div>
+<div><strong><span style="font-size: medium;">3. The Quranic Framework</span></strong></div><div><strong><br /></strong></div>
 <div></div>
 <p>Core Influence: Pure Divine Revelation.</p>
 <p>Concept of God: Active and personal; driven by Absolute Will (Iradah).</p>
@@ -51,13 +51,13 @@
 <p>1. <strong>'Aql (Intellect/Reason)</strong>: In the Quran, <strong>the word 'aql never appears as a noun</strong>. Instead, the Quran consistently uses it as a verb, such as ta'qilun (you reason) or ya'qilun (they understand). This signifies that intellect in the Quranic worldview is not a mental organ, an anatomical component, or a cosmic entity; rather, it is <strong>an active process (the activity of thinking and understanding)</strong>. Planets do not engage in this process!</p>
 <p>2. <strong>Nafs (Soul/Self)</strong>: In Quranic Arabic, nafs is not some mystical spiritual gas or vapor that enters and leaves the body in the Greek tradition. Rather, nafs literally means the <strong>Existential Identity of an Entity (its "self" or "being")</strong>. Trees, rocks, the heavens, and structured entities possessing physical components (feet, hands, eyes) [7:195-197] all possess a nafs—their own existential identity. The only difference lies in the <strong>level of accountability (moral and legal responsibility)</strong>, which Allah places exclusively on humans and jinn who possess free will [74:38].</p>
 <p>Consequently, the debates between Al-Ghazali and Ibn Sina regarding "celestial souls" or the "immortality of the spiritual substance" were essentially self-indulgent academic exercises. The very subjects they were debating were built upon external terminology that simply does not exist within the linguistic structure of divine revelation.</p><p><br /></p>
-<div><strong>Summary of Conceptual Shifts</strong></div>
+<div><strong><span style="font-size: large;">Summary of Conceptual Shifts</span></strong></div>
 <p></p>
-<div><strong>1. 'Aql (Intellect)</strong></div><div><strong><br /></strong></div>
+<div><strong><span style="font-size: medium;">1. 'Aql (Intellect</span>)</strong></div><div><strong><br /></strong></div>
 <div></div>
 <p>Philosophical Interpretation: An anatomical component, mental organ, or cosmic entity capable of independent existence.</p>
 <p>Quranic Semantic Framework: An active process (verb); the conscious act of reasoning, thinking, and understanding.</p><p><br /></p>
-<div><strong>2. Nafs (Soul/Self)</strong></div><div><strong><br /></strong></div>
+<div><strong><span style="font-size: medium;">2. Nafs (Soul/Self)</span></strong></div><div><strong><br /></strong></div>
 <div></div>
 <p>Philosophical Interpretation: An immaterial spiritual substance (psyche) trapped inside a physical body.</p>
 <p>Quranic Semantic Framework:&nbsp;Existential Identity (noun); the essence of an entity's being, ranging from entities with physical structures to morally accountable creation.</p>
@@ -70,27 +70,27 @@
 <p>In the case of the bodily resurrection, the Quran addresses the issue decisively in <strong>Surah Al-Isra' 17:50-51</strong>:</p>
 <p>"Say, 'Be you stones or iron, or any creation of that which is yet greater in your minds [and harder to resurrect].' Then they will say, 'Who will restore us?' Say, 'He who created you the first time.' "</p>
 <p>The Quran firmly asserts: Resurrection has nothing to do with the physical state of your remains! Whether your body decomposes into dust or transforms into the hardest, most scientifically impossible elements like stone or iron, it does not hinder the Day of Judgment. The Quran does not respond using theories of atomic reassembly; rather, it uses a functional argument:&nbsp;Since Allah created your Existential Identity (Nafs) for the first time, restoring it a second time is incredibly effortless.</p><p><br /></p>
-<div><strong>Summary of Views on Miracles and Resurrection</strong></div><div><strong><br /></strong></div>
-<div><strong>1. Causality &amp; Miracles</strong></div><div><strong><br /></strong></div>
+<div><strong><span style="font-size: large;">Summary of Views on Miracles and Resurrection</span></strong></div><div><strong><br /></strong></div>
+<div><strong><span style="font-size: medium;">1. Causality &amp; Miracles</span></strong></div><div><strong><br /></strong></div>
 <div></div>
 <p>Ibn Sina: Fixed and unalterable; physical miracles are impossible because cause-and-effect cannot break.</p>
 <p>Al-Ghazali: Non-existent laws; nature has no inherent power, and events only occur through continuous, case-by-case divine creation.</p>
 <p>Quranic Framework: Driven by Direct Command (Amr); creation is an existential identity (Nafs) that naturally obeys its Creator.</p><p><br /></p>
-<div><strong>2. Resurrection</strong></div><div><strong><br /></strong></div>
+<div><strong><span style="font-size: medium;">2. Resurrection</span></strong></div><div><strong><br /></strong></div>
 <div></div>
 <p>Ibn Sina: Purely spiritual; a destroyed physical body cannot be reconstructed under the laws of matter.</p>
 <p>Al-Ghazali: Mechanical reassembly; Allah gathers and pieces the old physical particles back together like a puzzle.</p>
 <p>Quranic Framework:&nbsp;Functional and absolute; independent of material status (even if turned to stone or iron) because He who created identity the first time easily restores it.</p>
 <h2>Conclusion</h2>
 <p>The book Tahafut al-Falasifah stands as historic proof of the magnificent intellectual struggles of classical Islam. However, it also serves as a profound lesson for us today. When we attempt to defend the Quran by borrowing foreign frameworks of thought—whether it is the ancient Greek philosophy of the Axial Age or the modern materialistic scientific paradigms of today—we inadvertently confine the vastness of divine revelation within a prison of human terminology. The Quran is at its most beautiful, decisive, and unshakeable when it is allowed to speak through its own unique linguistic structure: organic, holistic, functional, and relational.</p><p><br /></p>
-<div><strong>Final Takeaways</strong></div><div><strong><br /></strong></div>
+<div><strong><span style="font-size: large;">Final Takeaways</span></strong></div><div><strong><br /></strong></div>
 <div></div>
-<div><strong>1. Human-Made Philosophical Systems</strong></div><div><strong><br /></strong></div>
+<div><strong><span style="font-size: medium;">1. Human-Made Philosophical Systems</span></strong></div><div><strong><br /></strong></div>
 <div></div>
 <p>Approach: Dissects reality into rigid, abstract, and speculative components.</p>
 <p>Language: Trapped in human-made terms like Substance, Accident, or Cosmos.</p>
 <p>End Result: Leads to intellectual paralysis, skepticism, or a robotic theology.</p><p><br /></p>
-<div><strong>2.The Quranic Linguistic Model</strong></div><div><strong><br /></strong></div>
+<div><strong><span style="font-size: medium;">2.The Quranic Linguistic Model</span></strong></div><div><strong><br /></strong></div>
 <div></div>
 <p>Approach: Presents reality through dynamic, concrete, and relational frameworks.</p>
 <p>Language: Uses functional and universal phrasing like Heavens, Earth, or Self/Identity.</p>
