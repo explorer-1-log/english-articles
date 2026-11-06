@@ -22,10 +22,10 @@
 <p>True perfection and eternity do not require a frozen, dead state. Instead, reality is an inclusive, rich process of actualizing potential. A supreme substance or ultimate reality does not lose its perfection by moving the universe, generating life, or being aware of external objects. Rather, this dynamic engagement is the ultimate expression of its all-encompassing nature—a presence that infuses everything without needing to move linearly from point A to point B.</p>
 <h2>3. The Breakthrough of Fluid Paradigms</h2>
 <p>To break the chains of the static dogma, revolutionary thinkers developed elegant frameworks that celebrated the fluid nature of reality:</p><p><br /></p>
-<div><strong>The Flow of the Tao (道)</strong></div><div><strong><br /></strong></div>
+<div><strong><span style="font-size: large;">The Flow of the Tao (道)</span></strong></div><div><strong><br /></strong></div>
 <div></div>
 <p>Taoism rejected the rigid definitions of ultimate reality. Instead of an unyielding rock, it viewed the Absolute as an eternally flowing river. It emphasized flexibility (<strong>Wu Wei</strong>, or effortless action) and found harmony directly within constant, cyclical change (<strong>Yin &amp; Yang</strong>). Here, perfection is not a frozen monument; it is a beautifully balanced, dynamic dance.</p><p><br /></p>
-<div><strong>The Pure Consciousness of Yogācāra</strong></div><div><strong><br /></strong></div>
+<div><strong><span style="font-size: large;">The Pure Consciousness of Yogācāra</span></strong></div><div><strong><br /></strong></div>
 <div></div>
 <p>To rescue Buddhist philosophy from the static emptiness of the early schools, the Yogācāra school introduced the concept of Pure Consciousness (<strong>Vijñāna-mātra</strong>). They replaced the idea of a frozen, rigid soul or a total blank void with a dynamic foundational stream known as <strong>citta-saṃtāna</strong> (the continuous mind-stream). In this flowing river of consciousness, the rigid, artificial barriers between subject and object completely collapse. It achieved what Aristotle’s Noesis attempted, but made it flowing, alive, and interactive rather than isolated and static.</p>
 <h2>4. From Hylomorphism to Superposition: The Architecture of Potential</h2>
@@ -37,10 +37,10 @@
 <h2>5. The Modern Verdict: The Quantum Physics Revolution</h2>
 <p>What Eastern mystics and early dynamic realists intuited centuries ago, modern empirical science has finally proven on a grander scale. The transition from classical mechanics to quantum physics completely shattered the old, static dream of a deterministic, clockwork universe.</p>
 <p>This paradigm shift is driven by two main quantum pillars that redefine our understanding of the universe:</p><p><br /></p>
-<div><strong>1. Heisenberg's Uncertainty Principle</strong></div><div><strong><br /></strong></div>
+<div><strong><span style="font-size: large;">1. Heisenberg's Uncertainty Principle</span></strong></div><div><strong><br /></strong></div>
 <div></div>
 <p>This mathematically proved that subatomic particles do not occupy fixed, frozen positions. This means that reality at its subatomic core is built entirely on dynamic probabilities rather than static certainty.</p><p><br /></p>
-<div><strong>2. Quantum Entanglement</strong></div><div><strong><br /></strong></div>
+<div><strong><span style="font-size: large;">2. Quantum Entanglement</span></strong></div><div><strong><br /></strong></div>
 <div></div>
 <p>This shattered the classical illusion of spatial separation by proving that two entangled particles react to one another instantly, across vast distances, with zero time delay.</p>
 <p>Together, these discoveries force a definitive conclusion from quantum science: the universe is not a collection of isolated, rigid objects. Instead, it is a holistic, dynamic, and deeply interwoven Cosmic Web—mirroring the exact fluid reality described in Taoist philosophy.</p>
