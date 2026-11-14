@@ -32,3 +32,4 @@ Welcome to my personal archive of English articles. Here is the list of publishe
 * [Supplemental Guide: Understanding the Operational Architecture of the "Bani Israil" Textual Fragments](baqarah-supplement.md)
 * [COGNITIVE SYSTEMS & ARCHETYPAL PROTOCOLS: A Radical Text-Critical Analysis of the Al-Baqarah Fragments](baqarah-2-61.md)
 * [PERSPECTIVE REVISION NOTES: THE PARADIGM SHIFT OF THE CONCEPT OF ADAM AND THE QURAN FOR A SPECIFIC GROUP](quran-specific-group.md)
+* [DRAFT RESEARCH NOTES: TERRITORIAL JURISPRUDENTIAL PARADIGM IN THE PENTATEUCH (OBJECTIVE NORTHERN BLOCK / SAMARITAN PENTATEUCH PERSPECTIVE)](samaritan-pentateuch.md)
