@@ -35,3 +35,4 @@ Welcome to my personal archive of English articles. Here is the list of publishe
 * [DRAFT RESEARCH NOTES: TERRITORIAL JURISPRUDENTIAL PARADIGM IN THE PENTATEUCH (OBJECTIVE NORTHERN BLOCK / SAMARITAN PENTATEUCH PERSPECTIVE)](samaritan-pentateuch.md)
 * [Dismantling the "Council of the Gods" Myth in Deuteronomy 32:8 Through a Strict Literal Reading of the Samaritan Pentateuch](deuteronomy-32-8.md)
 * [Divine Speech, Herem, and Warfare Against Children: A Strict Pentateuchal Analysis](pentateuch-children.md)
+* [Draft Notes: Preterist vs. Futurist in Contrast with the Samaritan Israelite Tradition](preterist-futurist.md)
