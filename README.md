@@ -37,3 +37,4 @@ Welcome to my personal archive of English articles. Here is the list of publishe
 * [Divine Speech, Herem, and Warfare Against Children: A Strict Pentateuchal Analysis](pentateuch-children.md)
 * [Draft Notes: Preterist vs. Futurist in Contrast with the Samaritan Israelite Tradition](preterist-futurist.md)
 * [Re-reading the History of the Israelites: Beyond the Southern Lens and Uncovering the Samaritan Tradition](samaritan-history.md)
+* [The Crisis of the Absent Ohel Moed and Valid Yom Kippur: North–South Clashes and Theological Implications for the Temple and Early Christianity](ohel-moed.md)
