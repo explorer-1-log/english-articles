@@ -39,3 +39,4 @@ Welcome to my personal archive of English articles. Here is the list of publishe
 * [Re-reading the History of the Israelites: Beyond the Southern Lens and Uncovering the Samaritan Tradition](samaritan-history.md)
 * [The Crisis of the Absent Ohel Moed and Valid Yom Kippur: North–South Clashes and Theological Implications for the Temple and Early Christianity](ohel-moed.md)
 * [The Legal Crisis of the Torah: The Absence of the Tabernacle, Perpetual Impurity, and the Covenantal Curse upon the Descendants of Israel](ark-of-covenant.md)
+* [Research Note Draft: Apocalyptic Language, Typology, Audience Relevance, and Time Statements in the Qur'an](quran-audience-relevance.md)
