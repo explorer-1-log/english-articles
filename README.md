@@ -41,4 +41,5 @@ Welcome to my personal archive of English articles. Here is the list of publishe
 * [The Legal Crisis of the Torah: The Absence of the Tabernacle, Perpetual Impurity, and the Covenantal Curse upon the Descendants of Israel](ark-of-covenant.md)
 * [Research Note Draft: Apocalyptic Language, Typology, Audience Relevance, and Time Statements in the Qur'an](quran-audience-relevance.md)
 * [The True Purpose of Giving the Torah Law to the Descendants of Israel, the Crisis of the Severed Physical Rituals, and the Contradictions of External Interpretations](torah-purpose.md)
+* [The Semantic Definition of Ummat in the Quranic Text: Related Genealogical Lineages within the Regional Semitic Prophetic Tradition](quranic-ummat.md)
 
